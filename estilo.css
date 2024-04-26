@@ -1,0 +1,54 @@
+#Galeria img¨{
+  width: 100%;
+  height: 350px;
+}
+
+#Galeria .col-lg-3{
+    margin: 0!important;
+    padding: 15px;
+}
+
+#Galeria img:hover{
+   transform: scale(1.1);
+   box-shadow: 14px 14px 20px 0 rgb(21, 154, 211);
+}
+
+.card:hover{
+  transform: scale(1.1);
+  box-shadow: 14px 14px 20px 0 rgb(20,20,20,0.3);
+  transition: 1s all;
+}
+#contacto{
+  background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/27/9f/45/bc/restaurant.jpg");
+  min-height: 250px;
+  object-fit: contain;
+  border-radius: 5px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Servicios{
+  background-image: url(" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_pQnDRMp5hXoVhS5450SF9KohXgTedra8Bw&usqp=CAU");
+  min-height: 250px;
+  object-fit: contain;
+  border-radius: 5px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#servicios de postres{
+  background-image: url(" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_pQnDRMp5hXoVhS5450SF9KohXgTedra8Bw&usqp=CAU");
+  min-height: 250px;
+  object-fit: contain;
+  border-radius: 5px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
